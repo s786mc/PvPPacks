@@ -1,6 +1,6 @@
 // ساده و کاربردی: هشدار سازنده
 function showAlert() {
-  alert("سازنده وبگاه: itsSadegh (مالک itsSadegh)");
+  alert("سازنده وبگاه: Skyer");
 }
 
 /* کنترل‌های ویدیو */
